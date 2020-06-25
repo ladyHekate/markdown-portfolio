@@ -1,3 +1,4 @@
-# This is an <h1> header, which is the largest  para mi nombre : Lady Estephania Gonzalez 
-## This is an <h2> que  puede ser para mi numero telefonico 3053948456
-###### This is an <h6> header, which is the  para desearles buena suerte!!! 
+# Este es un encabezado h1 <h1> Lady Estephania Gonzalez  
+## Este es un encabezado h2 <h2> Buena Suerte Para Todos!!
+###### Este es un encabezado h6 <h6> 3053948456
+  
